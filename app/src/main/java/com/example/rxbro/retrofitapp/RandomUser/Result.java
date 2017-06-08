@@ -4,6 +4,8 @@ package com.example.rxbro.retrofitapp.RandomUser;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+import java.io.Serializable;
+
 public class Result {
 
     @SerializedName("gender")
